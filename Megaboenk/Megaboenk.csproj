@@ -30,6 +30,9 @@
     <Reference Include="UnityEngine.CoreModule">
       <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Megabonk\profiles\meagbonkkerrrrr\BepInEx\interop\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.IMGUIModule">
+      <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Megabonk\profiles\meagbonkkerrrrr\BepInEx\interop\UnityEngine.IMGUIModule.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
       <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\Megabonk\profiles\meagbonkkerrrrr\BepInEx\interop\UnityEngine.InputLegacyModule.dll</HintPath>
     </Reference>
